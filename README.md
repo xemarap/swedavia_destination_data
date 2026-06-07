@@ -71,3 +71,12 @@ The Tableau workbook (`.twb`) used to visualize this data is not included in thi
 ## Adding New Year Files
 
 Drop `destinationsstatistik_YYYY.xlsx` into `Data/` and re-run all three scripts. If new country name variants appear, add them to `COUNTRY_NORMALIZE` in `Scripts/01_clean_data.py` and re-check `CONTINENT_OVERRIDES` in `Scripts/03_build_viz_dataset.py`.
+
+## Acknowledgements
+
+- Thanks to [Swedavia](https://www.swedavia.se/om-swedavia/statistik/) for publishing their passenger statistics as open data.
+- Geocoding is performed using [geopy](https://github.com/geopy/geopy) and the [Nominatim](https://nominatim.org/) service. If you reuse or extend the geocoding step, please follow [Nominatim's usage policy](https://operations.osmfoundation.org/policies/nominatim/).
+
+## Disclaimer
+
+This is an independent project and is not associated with or endorsed by Swedavia.

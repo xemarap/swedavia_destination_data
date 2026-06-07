@@ -1,0 +1,726 @@
+﻿country,city,lat,lon,geocode_query,geocode_status
+Vietnam,Phu Quoc Flygplats,10.1678855,103.997528,"PHU QUOC FLYGPLATS, Vietnam",ok_primary
+Sweden,Stockholm Arlanda,59.6519,17.9186,hardcoded,hardcoded
+Vietnam,Hanoi,21.0283334,105.854041,"HANOI, Vietnam",ok_primary
+Afghanistan,Kabul,34.5269503,69.1850584,"KABUL, Afghanistan",ok_primary
+Albania,Tirana,41.3281482,19.8184435,"TIRANA, Albania",ok_primary
+Algeria,Alger,36.7729333,3.0588445,"Alger, Algeria",ok_primary
+Algeria,Boufarik,36.5755523,2.9128963,"BOUFARIK, Algeria",ok_primary
+Algeria,Tamanrasset,22.7859372,5.5291395,"TAMANRASSET, Algeria",ok_primary
+Antigua and Barbuda,Antigua,17.1037152,-61.7904505,"Antigua, Antigua and Barbuda",ok_primary
+United States,Twin Falls,42.5558542,-114.4700684,"TWIN FALLS, United States",ok_primary
+United States,Trenton,40.2203074,-74.7659,"TRENTON, United States",ok_primary
+United States,Tokeen,56.0452027,-133.4318726,"TOKEEN, United States",ok_primary
+United States,Teterboro,40.8598219,-74.0593075,"TETERBORO, United States",ok_primary
+United States,Tampa,27.9449854,-82.4583107,"TAMPA, United States",ok_primary
+United States,Syracuse,43.0481221,-76.1474244,"Syracuse, United States",ok_primary
+United States,Seattle-Tacoma,47.4475673,-122.3080159,"Seattle-Tacoma, United States",ok_primary
+United States,Seattle,47.6038321,-122.330062,"Seattle, United States",ok_primary
+United States,Santa Clara County,37.2333253,-121.6846349,"Santa Clara County, United States",ok_primary
+United States,San Jose,37.3361663,-121.890591,"San Jose, United States",ok_primary
+United States,San Francisco,37.7879363,-122.4075201,"San Francisco, United States",ok_primary
+United States,San Diego,32.7174202,-117.162772,"San Diego, United States",ok_primary
+United States,Stuart,27.197983,-80.2519175,"STUART, United States",ok_primary
+United States,St. Louis,38.6254063,-90.190009,"ST. LOUIS, United States",ok_primary
+United States,Southwest Michigan,42.3300792,-83.1201845,"SOUTHWEST MICHIGAN, United States",ok_primary
+Bermuda,Bermuda,32.3022282,-64.7741121,"BERMUDA, Bermuda",ok_primary
+Belgium,Oostende Brugge,51.2003125,2.8739254,"Oostende Brugge, Belgium",ok_primary
+Belgium,Oostende-Brugge,51.2003125,2.8739254,"OOSTENDE-BRUGGE, Belgium",ok_primary
+Belgium,Liege,50.4708135,5.7735658,"Liege, Belgium",ok_primary
+Belgium,Kortrijk-Wevelgem,50.8149741,3.1929918,"KORTRIJK-WEVELGEM, Belgium",ok_primary
+Belgium,Charleroi,50.4116233,4.444528,"Charleroi, Belgium",ok_primary
+Belgium,Brussels,50.8467372,4.352493,"Brussels, Belgium",ok_primary
+Belgium,Antwerp,51.2211097,4.3997081,"Antwerpen, Belgium",ok_primary
+Belarus,Vitebsk,55.1930197,30.2070437,"VITEBSK, Belarus",ok_primary
+Belarus,Minsk,53.9024716,27.5618225,"MINSK, Belarus",ok_primary
+Belarus,Grodno,53.6834599,23.8342648,"GRODNO, Belarus",ok_primary
+Barbados,Barbados,13.1899463,-59.5592151,"BARBADOS, Barbados",ok_primary
+Canada,Goose Bay,53.333333,-60.416667,"GOOSE BAY, Canada",ok_primary
+Canada,Gander,48.9592291,-54.6187879,"GANDER, Canada",ok_primary
+Bulgaria,Varna,43.2073873,27.9166653,"Varna, Bulgaria",ok_primary
+Bulgaria,Sofia,42.6977028,23.3217359,"Sofia, Bulgaria",ok_primary
+Bulgaria,Burgas,42.4936616,27.4721276,"Burgas, Bulgaria",ok_primary
+Brazil,Sao Paolo,-23.5506507,-46.6333824,"SAO PAOLO, Brazil",ok_primary
+Brazil,Brasilia,-15.7939869,-47.8828,"BRASILIA, Brazil",ok_primary
+Botswana,Sir Seretse Khama In,-23.1681782,24.5928742,Botswana,ok_fallback
+Bosnia and Herzegovina,Tuzla,44.539298,18.6749337,"Tuzla, Bosnia and Herzegovina",ok_primary
+Bosnia and Herzegovina,Sarajevo,43.8570713,18.4126147,"Sarajevo, Bosnia and Herzegovina",ok_primary
+Bosnia and Herzegovina,Banja Luka,44.7720845,17.1917651,"Banja Luka, Bosnia and Herzegovina",ok_primary
+Cape Verde,Rabil/Boa Vista,16.1280304,-22.8884999,"RABIL/BOA VISTA, Cape Verde",ok_primary
+Cape Verde,Okand,16.0000552,-24.0083947,Cape Verde,ok_fallback
+Cape Verde,Boa Vista,16.099509,-22.8009411,"Boa Vista, Cape Verde",ok_primary
+Cape Verde,Amilcar Cabral/Sal I,16.6002099,-22.9086891,"AMILCAR CABRAL/SAL I, Cape Verde",ok_primary
+Canada,Winnipeg,49.8955367,-97.1384584,"WINNIPEG, Canada",ok_primary
+Canada,Vancouver,49.2608724,-123.113952,"VANCOUVER, Canada",ok_primary
+Canada,Toronto,43.6534817,-79.3839347,"Toronto, Canada",ok_primary
+Canada,St. John´S,47.5646794,-52.7066964,"ST. JOHN´S, Canada",ok_primary
+Canada,Quebec,52.4760892,-71.8258668,"Quebec, Canada",ok_primary
+Canada,Ottawa,45.4208777,-75.6901106,"OTTAWA, Canada",ok_primary
+Canada,Montreal,45.5031824,-73.5698065,"Montreal, Canada",ok_primary
+Canada,Iqaluit,63.7492738,-68.5213763,"IQALUIT, Canada",ok_primary
+Canada,Halifax,44.648618,-63.5859487,"HALIFAX, Canada",ok_primary
+Canada,Gravenhurst,44.91741,-79.373131,"GRAVENHURST, Canada",ok_primary
+China,Xian Xianyang Int Ai,34.5412252,108.9237067,China,ok_fallback
+China,Tianjin,39.3032619,117.4163641,"TIANJIN, China",ok_primary
+China,Shenyang,41.8026095,123.4279105,"Shenyang, China",ok_primary
+China,Shanghai,31.2312707,121.4700152,"Shanghai, China",ok_primary
+China,Shenzhen,22.5445741,114.0545429,"SHENZHEN, China",ok_primary
+China,Shanghai/Pudong,31.1427359,121.8041131,"SHANGHAI/PUDONG, China",ok_primary
+China,Nanjing/Lukou,31.7331769,118.8712637,"NANJING/LUKOU, China",ok_primary
+China,Hohhot,40.8184528,111.6601939,"HOHHOT, China",ok_primary
+China,Hangshou Xiaoshan,34.5412252,108.9237067,China,ok_fallback
+China,Haikou/Meilan,20.0549901,110.3325456,"HAIKOU/MEILAN, China",ok_primary
+China,Guangzhou/Baiyun,23.194037,113.2405097,"GUANGZHOU/BAIYUN, China",ok_primary
+China,Dalian/Zhoushuizi,38.9641515,121.5391765,"DALIAN/ZHOUSHUIZI, China",ok_primary
+China,Beijing,39.9057136,116.3912972,"Beijing, China",ok_primary
+Cape Verde,Sal Island,16.7517858,-22.936335,"Sal Island, Cape Verde",ok_primary
+Cyprus,Ercan International,34.9174159,32.8899027,Cyprus,ok_fallback
+Cuba,Varadero/Gomez,23.0331717,-81.4388163,"VARADERO/GOMEZ, Cuba",ok_primary
+Croatia,Zagreb,45.8130967,15.9772795,"Zagreb, Croatia",ok_primary
+Croatia,Zadar,44.1168594,15.2353257,"Zadar, Croatia",ok_primary
+Croatia,Split,43.5116383,16.4399659,"Split, Croatia",ok_primary
+Croatia,Rijeka,45.3267976,14.442208,"Rijeka, Croatia",ok_primary
+Croatia,Pula,44.8702281,13.8455311,"PULA, Croatia",ok_primary
+Croatia,Dubrovnik,42.6491029,18.0939501,"Dubrovnik, Croatia",ok_primary
+Congo,Kinshasa,-4.3196982,15.3424196,"Kinshasa, Congo",ok_primary
+Colombia,Bogota Airport,4.6733173,-74.1173647,"BOGOTA AIRPORT, Colombia",ok_primary
+China,Xianyang,34.3323227,108.7128495,"Xianyang, China",ok_primary
+Denmark,Billund,55.7247018,9.1195835,"BILLUND, Denmark",ok_primary
+Denmark,Aarhus,56.1496278,10.2134046,"Aarhus, Denmark",ok_primary
+Denmark,Aalborg,57.0462626,9.9215263,"Aalborg, Denmark",ok_primary
+Czech Republic,Prague,50.0874654,14.4212535,"Prague, Czech Republic",ok_primary
+Czech Republic,Pardubice,50.0385812,15.7791356,"PARDUBICE, Czech Republic",ok_primary
+Czech Republic,Ostrava,49.8349139,18.2820084,"Ostrava, Czech Republic",ok_primary
+Czech Republic,Kosice,50.1797445,15.5349958,"KOSICE, Czech Republic",ok_primary
+Czech Republic,Kbely,50.1319574,14.5493202,"KBELY, Czech Republic",ok_primary
+Czech Republic,Brno,49.1922443,16.6113382,"Brno, Czech Republic",ok_primary
+Cyprus,Paphos,34.7743988,32.4231586,"Paphos, Cyprus",ok_primary
+Cyprus,Larnaca,34.9236095,33.6236184,"Larnaca, Cyprus",ok_primary
+Denmark/Greenland,Söndre Strömfjord,71.7919151,-38.8397752,Denmark/Greenland,ok_fallback
+Denmark,Århus,56.1496278,10.2134046,"ÅRHUS, Denmark",ok_primary
+Denmark,Ålborg,57.0462626,9.9215263,"ÅLBORG, Denmark",ok_primary
+Denmark,Vagar,55.670249,10.3333283,Denmark,ok_fallback
+Denmark,Sönderborg,54.9089186,9.7897999,"Sönderborg, Denmark",ok_primary
+Denmark,Rönne,55.0994511,14.7060906,"Rönne, Denmark",ok_primary
+Denmark,Odense,55.3997225,10.3852104,"ODENSE, Denmark",ok_primary
+Denmark,Copenhagen,55.6867243,12.5700724,"Köpenhamn, Denmark",ok_primary
+Denmark,Karup,56.3111225,9.1706768,"KARUP, Denmark",ok_primary
+Denmark,Esbjerg,55.4664892,8.4520751,"ESBJERG, Denmark",ok_primary
+Estonia,Tallinn,59.437242,24.7572693,"TALLINN, Estonia",ok_primary
+Estonia,Pärnu,58.3870659,24.5026059,"Pärnu, Estonia",ok_primary
+Estonia,Kuressaare,58.2527693,22.4849207,"KURESSAARE, Estonia",ok_primary
+Egypt,Sharm El-Sheikh,27.8644422,34.295447,"Sharm el-Sheikh, Egypt",ok_primary
+Egypt,Sharm-El-Sheikh,27.8644422,34.295447,"SHARM-EL-SHEIKH, Egypt",ok_primary
+Egypt,Marsa Alam,25.069992,34.893817,"MARSA ALAM, Egypt",ok_primary
+Egypt,Luxor,25.702096,32.647186,"LUXOR, Egypt",ok_primary
+Egypt,Cairo,30.0443879,31.2357257,"KAIRO, Egypt",ok_primary
+Egypt,Hurghada,27.222556,33.8307062,"Hurghada, Egypt",ok_primary
+Ecuador,Guayaquil/Jose Joaqu,-1.3397668,-79.3666965,Ecuador,ok_fallback
+Dominican Republic,Punta Cana,18.556551,-68.3691611,"Punta Cana, Dominican Republic",ok_primary
+Dominican Republic,Puerto Plata,19.7976564,-70.6932607,"PUERTO PLATA, Dominican Republic",ok_primary
+Dominican Republic,La Romana,18.4230137,-68.9661104,"LA ROMANA, Dominican Republic",ok_primary
+Finland,Kuusamo,65.9645637,29.1883283,"KUUSAMO, Finland",ok_primary
+Finland,Kuopio,62.8924628,27.6783603,"KUOPIO, Finland",ok_primary
+Finland,Kruunupyy,63.7288259,23.0215188,"KRUUNUPYY, Finland",ok_primary
+Finland,Kittila,67.7723589,25.0553441,"KITTILA, Finland",ok_primary
+Finland,Kemi-Tornio,65.7395694,24.5746634,"KEMI-TORNIO, Finland",ok_primary
+Finland,Jyväskylä,62.241672,25.7495806,"JYVÄSKYLÄ, Finland",ok_primary
+Finland,Joensuu,62.6006375,29.7619759,"JOENSUU, Finland",ok_primary
+Finland,Ivalo,68.6588185,27.5348114,"Ivalo, Finland",ok_primary
+Finland,Helsinki,60.1666204,24.9435408,"Helsinki, Finland",ok_primary
+Ethiopia,Addis Ababa,9.0358119,38.7524315,"Addis Ababa, Ethiopia",ok_primary
+Estonia,Tartu,58.3779528,26.7290023,"TARTU, Estonia",ok_primary
+Finland,Tampere,61.4977929,23.7616372,"Tampere, Finland",ok_primary
+Finland,Seinajoki,62.790666,22.8397378,"SEINAJOKI, Finland",ok_primary
+Finland,Rovaniemi,66.5025537,25.7303912,"Rovaniemi, Finland",ok_primary
+Finland,Pori,61.4866126,21.7972071,"Pori, Finland",ok_primary
+Finland,Oulu,65.0117914,25.4701973,"Oulu, Finland",ok_primary
+Finland,Mariehamn,60.102423,19.94126,"Mariehamn, Finland",ok_primary
+Finland,Mikkeli,61.6877823,27.2731918,"MIKKELI, Finland",ok_primary
+Finland,Kokkola,63.8391421,23.1336845,"Kokkola, Finland",ok_primary
+Finland,Kittilä,67.7723589,25.0553441,"Kittilä, Finland",ok_primary
+France,Beziers-Vias,43.313508,3.4157555,"Beziers-Vias, France",ok_primary
+France,Bastia,42.6974612,9.4497707,"Bastia, France",ok_primary
+France,Brest,48.3905283,-4.4860088,"BREST, France",ok_primary
+France,Bourges,47.0811658,2.399125,"BOURGES, France",ok_primary
+France,Bordeaux,44.841225,-0.5800364,"BORDEAUX, France",ok_primary
+France,Biarritz,43.4711437,-1.5527266,"BIARRITZ, France",ok_primary
+France,Bergerac/Roumaniere,46.603354,1.8883335,France,ok_fallback
+France,Bastia-Poretta,42.554418,9.4821991,"BASTIA-PORETTA, France",ok_primary
+France,Basel,47.6032369,7.5243481,"BASEL, France",ok_primary
+France,Annecy/Meythet,45.9158465,6.097641,"ANNECY/MEYTHET, France",ok_primary
+France,Ajoccio,46.603354,1.8883335,France,ok_fallback
+Finland,Turku,60.4515932,22.2669991,"ÅBO, Finland",ok_primary
+Finland,Vaasa,63.0957722,21.6159187,"Vasa, Finland",ok_primary
+France,Lille,50.6365654,3.0635282,"LILLE, France",ok_primary
+France,La Rochelle,46.159732,-1.1515951,"LA ROCHELLE, France",ok_primary
+France,Istres,43.5139051,4.9884323,"ISTRES, France",ok_primary
+France,Hyere-Le Palvestre,46.603354,1.8883335,France,ok_fallback
+France,Grenoble,45.1875602,5.7357819,"GRENOBLE, France",ok_primary
+France,Figari/Sud-Corse,41.5032668,9.0983266,"FIGARI/SUD-CORSE, France",ok_primary
+France,Deauville,49.3595018,0.0746638,"Deauville, France",ok_primary
+France,Dole/Tavaux,47.044207,5.4001442,"DOLE/TAVAUX, France",ok_primary
+France,Dinard,48.6320379,-2.0580178,"DINARD, France",ok_primary
+France,Dijon,47.3215806,5.0414701,"DIJON, France",ok_primary
+France,Clermont,49.3780921,2.4141907,"CLERMONT, France",ok_primary
+France,Chambery/Aix-L-Bains,45.6866714,5.913692,"CHAMBERY/AIX-L-BAINS, France",ok_primary
+France,Chalons/Vatry,46.603354,1.8883335,France,ok_fallback
+France,Cannes,43.5515198,7.0134418,"CANNES, France",ok_primary
+France,Toulouse,43.6044638,1.4442433,"TOULOUSE, France",ok_primary
+France,Strasbourg,48.584614,7.7507127,"STRASBOURG, France",ok_primary
+France,Rennes,48.1113387,-1.6800198,"RENNES, France",ok_primary
+France,Paris,48.8588897,2.320041,"Paris, France",ok_primary
+France,Nîmes,43.8374249,4.3600687,"Nîmes, France",ok_primary
+France,Nice,43.7009358,7.2683912,"Nice, France",ok_primary
+France,Nantes,47.2186371,-1.5541362,"Nantes, France",ok_primary
+France,Mülhouse,47.7467233,7.3389937,"MÜLHOUSE, France",ok_primary
+France,Marseille,43.2963986,5.3777888,"Marseille, France",ok_primary
+France,Montpellier,43.6112422,3.8767337,"MONTPELLIER, France",ok_primary
+France,Lyon,45.7578137,4.8320114,"Lyon, France",ok_primary
+Germany,Dortmund/Wickede,51.5339563,7.6247415,"DORTMUND/WICKEDE, Germany",ok_primary
+Germany,Donaueschingen/Vill.,51.1638175,10.4478313,Germany,ok_fallback
+Germany,Braunschweig,52.2646577,10.5236066,"Braunschweig, Germany",ok_primary
+Germany,Berlin,52.5173885,13.3951309,"Berlin, Germany",ok_primary
+Germany,Bremen,53.0758196,8.8071646,"BREMEN, Germany",ok_primary
+Germany,Berlin Brandenburg I,52.3944217,13.5384202,"BERLIN BRANDENBURG I, Germany",ok_primary
+Germany,Babenhausen,49.9562183,8.9460279,"BABENHAUSEN, Germany",ok_primary
+Georgia,Tbilisi,41.6934591,44.8014495,"TBILISI, Georgia",ok_primary
+Georgia,Batumi,41.6509502,41.6360085,"BATUMI, Georgia",ok_primary
+Gambia,Banjul,13.45535,-16.575646,"BANJUL, Gambia",ok_primary
+French Antilles,Pointe A Pitre,16.2332618,-61.3766245,"POINTE A PITRE, French Antilles",ok_primary
+France,Valenciennes,50.3579317,3.5234846,"Valenciennes, France",ok_primary
+France,Villacdublay,46.603354,1.8883335,France,ok_fallback
+Germany,Karlsruhe,49.0068705,8.4034195,"Karlsruhe, Germany",ok_primary
+Germany,Ingolstadt,48.7630165,11.4250395,"Ingolstadt, Germany",ok_primary
+Germany,Hannover,52.3744779,9.7385532,"Hannover, Germany",ok_primary
+Germany,Hamburg,53.5501721,10.0013165,"Hamburg, Germany",ok_primary
+Germany,Friedrichshafen,47.6500279,9.4800858,"Friedrichshafen, Germany",ok_primary
+Germany,Frankfurt,50.1106444,8.6820917,"Frankfurt, Germany",ok_primary
+Germany,Erfurt,50.9777974,11.0287364,"Erfurt, Germany",ok_primary
+Germany,Düsseldorf,51.2254018,6.7763137,"Düsseldorf, Germany",ok_primary
+Germany,Dortmund,51.5142273,7.4652789,"Dortmund, Germany",ok_primary
+Germany,Dresden,51.0493286,13.7381437,"DRESDEN, Germany",ok_primary
+Germany,Ramstein,49.4475167,7.5554676,"RAMSTEIN, Germany",ok_primary
+Germany,Paderborn-Lippstadt,51.6145993,8.619064,"PADERBORN-LIPPSTADT, Germany",ok_primary
+Germany,Oberpfaffenhofen,48.0732582,11.2649062,"OBERPFAFFENHOFEN, Germany",ok_primary
+Germany,Nürnberg,49.453872,11.077298,"NÜRNBERG, Germany",ok_primary
+Germany,Nordholz,53.7856914,8.6115402,"NORDHOLZ, Germany",ok_primary
+Germany,Niederrhein,51.4013466,6.5096405,"NIEDERRHEIN, Germany",ok_primary
+Germany,Münster,51.9625101,7.6251879,"Münster, Germany",ok_primary
+Germany,München,48.1371079,11.5753822,"München, Germany",ok_primary
+Germany,Memmingen/Allgäu,47.9888241,10.2350723,"MEMMINGEN/ALLGÄU, Germany",ok_primary
+Germany,Lübeck-Blankensee,53.804929,10.7126079,"LÜBECK-BLANKENSEE, Germany",ok_primary
+Germany,Leipzig,51.3406321,12.3747329,"Leipzig, Germany",ok_primary
+Germany,Leipzig/Halle,51.4211901,12.2295859,"LEIPZIG/HALLE, Germany",ok_primary
+Germany,Lahr,49.9440252,6.2909576,"LAHR, Germany",ok_primary
+Germany,Köln,50.938361,6.959974,"Köln, Germany",ok_primary
+Germany,Köln/Bonn,50.8616702,7.1455238,"KÖLN/BONN, Germany",ok_primary
+Greece,Iraklion,35.33908,25.1332843,"IRAKLION, Greece",ok_primary
+Greece,Ioannina,39.6639818,20.8522784,"IOANNINA, Greece",ok_primary
+Greece,Corfu,39.591337,19.8596189,"Corfu, Greece",ok_primary
+Greece,Chania,35.5120831,24.0191544,"Chania, Greece",ok_primary
+Greece,Athens,37.9755648,23.7348324,"Athens, Greece",ok_primary
+Greece,Araxos,38.1652451,21.4086813,"ARAXOS, Greece",ok_primary
+Gibraltar,Gibraltar,36.140807,-5.3541295,"GIBRALTAR, Gibraltar",ok_primary
+Germany,Wiesbaden,50.0820384,8.2416556,"Wiesbaden, Germany",ok_primary
+Germany,Stuttgart,48.7784485,9.1800132,"Stuttgart, Germany",ok_primary
+Germany,Speyer,49.3165553,8.433615,"SPEYER, Germany",ok_primary
+Germany,Schwabisch Hall/Hess,51.1638175,10.4478313,Germany,ok_fallback
+Germany,Saarbrücken,49.234362,6.996379,"SAARBRÜCKEN, Germany",ok_primary
+Greece,Mykonos,37.4513937,25.3923149,"Mykonos, Greece",ok_primary
+Greece,Mitilini,39.1037355,26.554788,"MITILINI, Greece",ok_primary
+Greece,Mikonos,37.4513937,25.3923149,"MIKONOS, Greece",ok_primary
+Greece,Kos,36.7936933,27.0848266,"Kos, Greece",ok_primary
+Greece,Kavala,40.9369224,24.4122766,"Kavala, Greece",ok_primary
+Greece,Karpathos,35.6136611,27.1192567,"Karpathos, Greece",ok_primary
+Greece,Kalamata,37.0372714,22.110707,"Kalamata, Greece",ok_primary
+Greece,Khania,35.5120831,24.0191544,"KHANIA, Greece",ok_primary
+Greece,Kefallinia,38.2660322,20.5373903,"KEFALLINIA, Greece",ok_primary
+Greece,Irakleion,35.33908,25.1332843,"Irakleion, Greece",ok_primary
+Greece,Thessaloniki,40.6403167,22.9352716,"Thessaloniki, Greece",ok_primary
+Greece,Skiathos,39.1692985,23.4552513,"Skiathos, Greece",ok_primary
+Greece,Santorini,36.4071112,25.4566637,"Santorini, Greece",ok_primary
+Greece,Samos,37.7246162,26.8192919,"Samos, Greece",ok_primary
+Greece,Sitia Airport,35.2161444,26.100884,"SITIA AIRPORT, Greece",ok_primary
+Greece,Rhodes,36.1725297,27.9194016,"Rhodes, Greece",ok_primary
+Greece,Preveza,38.9571673,20.7516209,"Preveza, Greece",ok_primary
+Greece,Patras,38.246242,21.7350847,"Patras, Greece",ok_primary
+Greece,Mytilene,39.1037355,26.554788,"Mytilene, Greece",ok_primary
+Greece,Myrina,39.8754188,25.0634491,"Myrina, Greece",ok_primary
+India,Delhi,28.6328027,77.2197713,"DEHLI, India",ok_primary
+India,Calcutta,22.5726459,88.3638953,"CALCUTTA, India",ok_primary
+India,Bangalore,12.9767936,77.590082,"BANGALORE, India",ok_primary
+India,Ahmedabad,23.0215374,72.5800568,"AHMEDABAD, India",ok_primary
+Iceland,Reykjavik,64.145981,-21.9422367,"Reykjavik, Iceland",ok_primary
+Iceland,Keflavik,63.9997694,-22.5565373,"KEFLAVIK, Iceland",ok_primary
+Hungary,Kecskemet,46.9074763,19.6920854,"KECSKEMET, Hungary",ok_primary
+Hungary,Heviz,46.7906038,17.1834489,"Heviz, Hungary",ok_primary
+Hungary,Gyor,47.6835029,17.6342832,"GYOR, Hungary",ok_primary
+Hungary,Budapest,47.4813896,19.1457723,"Budapest, Hungary",ok_primary
+Hong Kong,Hong Kong,22.2818333,114.1582831,"HONG KONG, Hong Kong",ok_primary
+Grenada,Grenada,33.7848667,-89.8025901,"Grenada, Grenada",ok_primary
+Greece,Zakynthos,37.7891384,20.7900896,"Zakynthos, Greece",ok_primary
+Greece,Zakinthos,38.9953683,21.9877132,Greece,ok_fallback
+Ireland,Dublin,53.3493795,-6.2605593,"DUBLIN, Ireland",ok_primary
+Ireland,Cork,51.8985136,-8.4726423,"CORK, Ireland",ok_primary
+Iraq,Sulaymaniyah,35.5570501,45.4425963,"SULAYMANIYAH, Iraq",ok_primary
+Iraq,Najaf,32.0010227,44.3299926,"NAJAF, Iraq",ok_primary
+Iraq,Erbil,36.1911744,44.0094145,"ERBIL, Iraq",ok_primary
+Iraq,Basra,30.4952371,47.8090981,"BASRA, Iraq",ok_primary
+Iraq,Baghdad,33.3061701,44.3872213,"BAGDAD, Iraq",ok_primary
+Iran,Tehran,35.6892523,51.3896004,"TEHERAN, Iran",ok_primary
+India,Visakhapatnam Airpor,22.3511148,78.6677428,India,ok_fallback
+India,Pune,18.5213738,73.8545071,"PUNE, India",ok_primary
+India,Mumbai,19.054999,72.8692035,"Mumbai, India",ok_primary
+India,Madras/Chennai,13.1470219,80.2869758,"MADRAS/CHENNAI, India",ok_primary
+India,Hyderabad,17.360589,78.4740613,"HYDERABAD, India",ok_primary
+India,Guwahati Airport,25.5748618,91.8826797,"GUWAHATI AIRPORT, India",ok_primary
+Italy,Brindisi,40.6358599,17.6884975,"BRINDISI, Italy",ok_primary
+Italy,Brescia,45.7795805,10.425873,"BRESCIA, Italy",ok_primary
+Italy,Bolzano,46.6559455,11.2302129,"BOLZANO, Italy",ok_primary
+Italy,Bologna,44.4938203,11.3426327,"BOLOGNA, Italy",ok_primary
+Italy,Bergamo,45.7566557,9.7542192,"BERGAMO, Italy",ok_primary
+Italy,Bari,41.1257843,16.8620293,"BARI, Italy",ok_primary
+Italy,Alghero,40.5587291,8.3153206,"Alghero, Italy",ok_primary
+Italy,Ancona,43.4801189,13.2187279,"ANCONA, Italy",ok_primary
+Israel,Tel Aviv,32.0852997,34.7818064,"Tel Aviv, Israel",ok_primary
+Israel,Tel-Aviv,32.0852997,34.7818064,"TEL-AVIV, Israel",ok_primary
+Israel,Ovda,29.9391304,34.9384889,"OVDA, Israel",ok_primary
+Ireland,Shannon,53.1349614,-8.1611027,"Shannon, Ireland",ok_primary
+Italy,Marina Di Campo,42.7612686,10.2392264,"MARINA DI CAMPO, Italy",ok_primary
+Italy,Lamezia Terme,38.9645069,16.3021451,"Lamezia Terme, Italy",ok_primary
+Italy,Genoa,44.40726,8.9338624,"Genoa, Italy",ok_primary
+Italy,Grosseto,42.7751102,11.2878044,"GROSSETO, Italy",ok_primary
+Italy,Florence,43.7697955,11.2556404,"Florence, Italy",ok_primary
+Italy,Catania,37.5023612,15.0873718,"Catania, Italy",ok_primary
+Italy,Cagliari,39.2171994,9.113311,"Cagliari, Italy",ok_primary
+Italy,Salerno/Pomtecagnano,42.6384261,12.674297,Italy,ok_fallback
+Italy,Rome,41.8933203,12.4829321,"Rome, Italy",ok_primary
+Italy,Pisa,43.4714722,10.6797912,"Pisa, Italy",ok_primary
+Italy,Palermo,38.1112268,13.3524434,"Palermo, Italy",ok_primary
+Italy,Pescara,42.3102619,13.9575901,"PESCARA, Italy",ok_primary
+Italy,Perugia,43.1070321,12.4029962,"PERUGIA, Italy",ok_primary
+Italy,Olbia,40.9232659,9.5027442,"Olbia, Italy",ok_primary
+Italy,Olbia/Costa Smeralda,40.899377,9.5177467,"OLBIA/COSTA SMERALDA, Italy",ok_primary
+Italy,Naples,40.8358846,14.2487679,"Neapel, Italy",ok_primary
+Italy,Milan,45.4641943,9.1896346,"Milano, Italy",ok_primary
+Japan,Tokyo,35.6768601,139.7638947,"TOKYO, Japan",ok_primary
+Japan,Sapporo,43.061936,141.3542924,"SAPPORO, Japan",ok_primary
+Japan,Osaka,34.6937569,135.5014539,"Osaka, Japan",ok_primary
+Japan,Kansai,34.4342045,135.222523,"KANSAI, Japan",ok_primary
+Japan,Chubu Centrair Intl.,34.8587197,136.8113633,"CHUBU CENTRAIR INTL., Japan",ok_primary
+Jamaica,Montego Bay,18.4724603,-77.9217357,"MONTEGO BAY, Jamaica",ok_primary
+Italy,Verona,45.4424977,10.9857377,"Verona, Italy",ok_primary
+Italy,Venice,45.4046171,12.3105232,"Venice, Italy",ok_primary
+Italy,Turin,45.0677551,7.6824892,"Turin, Italy",ok_primary
+Italy,Trieste,45.6496485,13.7772781,"Trieste, Italy",ok_primary
+Italy,Treviso,45.8066913,12.2063158,"TREVISO, Italy",ok_primary
+Italy,Trapani/Birgi,37.913009,12.4926219,"TRAPANI/BIRGI, Italy",ok_primary
+Kyrgyzstan,Alma-Ata,42.6446606,77.1794452,"ALMA-ATA, Kyrgyzstan",ok_primary
+Kuwait,Kuwait,29.3796532,47.9734174,"Kuwait, Kuwait",ok_primary
+Kosovo,Pristina,42.6638771,21.1640849,"Pristina, Kosovo",ok_primary
+Kenya,Nairobi,-1.302398,36.8288509,"Nairobi, Kenya",ok_primary
+Kenya,Mombasa,-4.05052,39.667169,"MOMBASA, Kenya",ok_primary
+Kazakhstan,Nur-Sultan,51.1159933,71.4677059,"Nur-Sultan, Kazakhstan",ok_primary
+Kazakhstan,Alma-Ata,43.2363924,76.9457275,"ALMA-ATA, Kazakhstan",ok_primary
+Kazakhstan,Aktyubinsk,48.1012954,66.7780818,Kazakhstan,ok_fallback
+Kazakhstan,Akmola,51.1282205,71.4306682,"AKMOLA, Kazakhstan",ok_primary
+Jordan,Amman,31.9515694,35.9239625,"Amman, Jordan",ok_primary
+Jordan,Aqaba,29.5266483,35.0075433,"AQABA, Jordan",ok_primary
+Malaysia,Subang/Sultan Abdul,3.1322924,101.550697,"SUBANG/SULTAN ABDUL, Malaysia",ok_primary
+Madagascar,Nosy Be,-13.311953,48.2533986,"Nosy Be, Madagascar",ok_primary
+Macau,Macau Intl,22.149929,113.5893607,"MACAU INTL, Macau",ok_primary
+Luxembourg,Luxembourg,49.6112768,6.129799,"Luxembourg, Luxembourg",ok_primary
+Luxembourg,Luxemburg,49.6112768,6.129799,"LUXEMBURG, Luxembourg",ok_primary
+Lithuania,Vilnius,54.6870458,25.2829111,"VILNIUS, Lithuania",ok_primary
+Lithuania,Palanga,55.9229818,21.0682657,"PALANGA, Lithuania",ok_primary
+Lithuania,Kaunas,54.8982139,23.9044817,"Kaunas, Lithuania",ok_primary
+Lebanon,Beirut,33.8892265,35.5025585,"Beirut, Lebanon",ok_primary
+Latvia,Ventspils,57.3903918,21.5635991,"VENTSPILS, Latvia",ok_primary
+Latvia,Riga,56.9493977,24.1051846,"Riga, Latvia",ok_primary
+Kyrgyzstan,Bishkek,42.8761424,74.6036724,"Bishkek, Kyrgyzstan",ok_primary
+Kyrgyzstan,Bishkek/Manas,42.8684697,74.5869687,"BISHKEK/MANAS, Kyrgyzstan",ok_primary
+Montenegro,Tivat,42.4303762,18.6988104,"TIVAT, Montenegro",ok_primary
+Montenegro,Podgorica,42.4415238,19.2621081,"PODGORICA, Montenegro",ok_primary
+Mongolia,Ulaanbaatar,47.9184676,106.9177016,"Ulaanbaatar, Mongolia",ok_primary
+Mongolia,Chinggis Khaan Int A,46.8250388,103.8499736,Mongolia,ok_fallback
+Moldova,Chisinau,47.0245117,28.8322923,"CHISINAU, Moldova",ok_primary
+Mexico,Oaxaca Aiport,23.6585116,-102.0077097,Mexico,ok_fallback
+Mexico,Estado De México,19.4839446,-99.6899716,"ESTADO DE MÉXICO, Mexico",ok_primary
+Mexico,Cancun,21.1527467,-86.8425761,"Cancun, Mexico",ok_primary
+Mauritius,Mauritius,-20.2534998,57.589573,"MAURITIUS, Mauritius",ok_primary
+Malta,Valetta,35.8989979,14.5136607,"Valetta, Malta",ok_primary
+Mali,Bamakosrnou,16.3700359,-2.2900239,Mali,ok_fallback
+Maldives,Male,4.1779879,73.5107387,"MALE, Maldives",ok_primary
+Maldives,Maafaru Internat Air,3.7203503,73.2244152,Maldives,ok_fallback
+Netherlands,Maastricht,50.8512438,5.6909768,"MAASTRICHT, Netherlands",ok_primary
+Netherlands,Groningen,53.2190652,6.5680077,"Groningen, Netherlands",ok_primary
+Netherlands,Groningen/Eelde,53.1214959,6.5817232,"GRONINGEN/EELDE, Netherlands",ok_primary
+Netherlands,Eindhoven,51.4485569,5.4501225,"Eindhoven, Netherlands",ok_primary
+Netherlands,Amsterdam,52.3730796,4.8924534,"Amsterdam, Netherlands",ok_primary
+Morocco,Tanger,35.7696302,-5.8033522,"TANGER, Morocco",ok_primary
+Morocco,Rabat,34.0218454,-6.8408929,"RABAT, Morocco",ok_primary
+Morocco,Ouarzazate,30.920193,-6.910923,"OUARZAZATE, Morocco",ok_primary
+Morocco,Marrakech,31.6258257,-7.9891608,"Marrakech, Morocco",ok_primary
+Morocco,Fes/Saiss,33.9290954,-4.9790929,"FES/SAISS, Morocco",ok_primary
+Morocco,Casablanca,33.5945144,-7.6200284,"CASABLANCA, Morocco",ok_primary
+Morocco,Agadir,30.4205162,-9.5838532,"Agadir, Morocco",ok_primary
+Norway,Evenes,68.4968608,16.9069678,"EVENES, Norway",ok_primary
+Norway,Bodö,67.2844313,14.3817503,"Bodö, Norway",ok_primary
+Norway,Bronnoysund,65.4748755,12.2116394,"BRONNOYSUND, Norway",ok_primary
+Norway,Bergen,60.3943055,5.3259192,"BERGEN, Norway",ok_primary
+Norway,Bardufoss,69.065637,18.5159237,"BARDUFOSS, Norway",ok_primary
+Norway,Alta,69.9666046,23.2733282,"Alta, Norway",ok_primary
+North Macedonia,Skopje,41.9962164,21.4318935,"Skopje, North Macedonia",ok_primary
+Nigeria,Mallam Aminu Kano In,9.6000359,7.9999721,Nigeria,ok_fallback
+Nigeria,Abuja,9.0643305,7.4892974,"ABUJA, Nigeria",ok_primary
+Nicaragua,Managua,12.1547116,-86.273725,"MANAGUA, Nicaragua",ok_primary
+Netherlands Antilles,St.Maarten,12.1845,-68.6607923,Netherlands Antilles,ok_fallback
+Netherlands,Rotterdam,51.9244424,4.47775,"ROTTERDAM, Netherlands",ok_primary
+Norway,Röros,62.5745909,11.3836172,"RÖROS, Norway",ok_primary
+Norway,Oslo,59.9133301,10.7389701,"Oslo, Norway",ok_primary
+Norway,Orland,63.8414053,9.7003652,"ORLAND, Norway",ok_primary
+Norway,Molde,62.6016257,8.1386208,"Molde, Norway",ok_primary
+Norway,Moss/Rygge,59.3712729,10.7776965,"MOSS/RYGGE, Norway",ok_primary
+Norway,Longyearbyen,78.2231558,15.6463656,"Longyearbyen, Norway",ok_primary
+Norway,Leknes,68.1474646,13.6115311,"Leknes, Norway",ok_primary
+Norway,Kristiansund,63.2168194,7.545259,"Kristiansund, Norway",ok_primary
+Norway,Kristiansand,58.0856276,7.931858,"Kristiansand, Norway",ok_primary
+Norway,Kirkenes,69.7271478,30.0448971,"Kirkenes, Norway",ok_primary
+Norway,Haugesund,59.4682479,5.0827612,"Haugesund, Norway",ok_primary
+Norway,Forde,61.4521759,5.8571725,"Forde, Norway",ok_primary
+Pakistan,Lahore,31.5656822,74.3141829,"LAHORE, Pakistan",ok_primary
+Pakistan,Kaarachi/Jinnanh Int,30.3308401,71.247499,Pakistan,ok_fallback
+Pakistan,Islamabad,33.6938118,73.0651511,"Islamabad, Pakistan",ok_primary
+Pakistan,Islamabad Int Airpor,30.3308401,71.247499,Pakistan,ok_fallback
+Norway,Ålesund,62.4802364,6.5550739,"Ålesund, Norway",ok_primary
+Norway,Trondheim,63.4304475,10.3952118,"Trondheim, Norway",ok_primary
+Norway,Tromsö,69.6516345,18.9558585,"Tromsö, Norway",ok_primary
+Norway,Svolvaer,68.2417024,14.6670816,"Svolvaer, Norway",ok_primary
+Norway,Stavanger,58.9699675,5.7318101,"Stavanger, Norway",ok_primary
+Norway,Svalbard/Longyearbyn,61.1529386,8.7876653,Norway,ok_fallback
+Norway,Stord,59.8641448,5.4106339,"STORD, Norway",ok_primary
+Poland,Poznan,52.4006632,16.9197326,"Poznan, Poland",ok_primary
+Poland,Nowy Dwor Mazowiecki,52.4306508,20.7154712,"Nowy Dwor Mazowiecki, Poland",ok_primary
+Poland,Modlin,52.6215771,17.6106831,"MODLIN, Poland",ok_primary
+Poland,Lublin,51.2181945,22.5546776,"Lublin, Poland",ok_primary
+Poland,Lodz/Lublinek,51.7209139,19.3592771,"LODZ/LUBLINEK, Poland",ok_primary
+Poland,Krakow,50.0469432,19.9971534,"Krakow, Poland",ok_primary
+Poland,Katowice,50.2137315,19.0058848,"Katowice, Poland",ok_primary
+Poland,Gdynia,54.5164982,18.5402738,"Gdynia, Poland",ok_primary
+Poland,Gdansk,54.4288032,18.798327,"Gdansk, Poland",ok_primary
+Poland,Bydgoszcz/Szweredowo,52.215933,19.134422,Poland,ok_fallback
+Peru,Callao,-12.0864633,-77.2234463,"CALLAO, Peru",ok_primary
+Portugal,Porto,41.1502195,-8.6103497,"PORTO, Portugal",ok_primary
+Portugal,Ponta Delgada,37.7393398,-25.6689503,"PONTA DELGADA, Portugal",ok_primary
+Portugal,Lisbon,38.7077507,-9.1365919,"Lisbon, Portugal",ok_primary
+Portugal,Lajes,38.7669312,-27.1031772,"LAJES, Portugal",ok_primary
+Portugal,Funchal,32.6496497,-16.9086783,"Funchal, Portugal",ok_primary
+Portugal,Faro,37.0162944,-7.935182,"Faro, Portugal",ok_primary
+Portugal,Beja,38.0154479,-7.8650368,"BEJA, Portugal",ok_primary
+Poland,Wroclaw,51.1089776,17.0326689,"Wroclaw, Poland",ok_primary
+Poland,Warsaw,52.2319581,21.0067249,"Warsaw, Poland",ok_primary
+Poland,Rzeszow,50.013319,22.0161677,"Rzeszow, Poland",ok_primary
+Poland,Radom,51.416727,21.1607392,"RADOM, Poland",ok_primary
+Russia,Chertovitskoye,51.8146379,39.2218234,"CHERTOVITSKOYE, Russia",ok_primary
+Russia,Belgorod,50.5955595,36.5873394,"BELGOROD, Russia",ok_primary
+Russia,Anapa/Vityazevo,45.0026734,37.3451849,"ANAPA/VITYAZEVO, Russia",ok_primary
+Romania,Timisoara,45.7538355,21.2257474,"Timisoara, Romania",ok_primary
+Romania,Cluj-Napoca,46.769379,23.5899542,"Cluj-Napoca, Romania",ok_primary
+Romania,Craiova,44.3190159,23.7965614,"CRAIOVA, Romania",ok_primary
+Romania,Bucharest,44.4361414,26.102684,"Bucharest, Romania",ok_primary
+Qatar,Doha,25.3108807,51.5081812,"Doha, Qatar",ok_primary
+Puerto Rico,Carolina,18.3640599,-65.9526682,"CAROLINA, Puerto Rico",ok_primary
+Portugal,Santa Maria,36.9726216,-25.1026495,"SANTA MARIA, Portugal",ok_primary
+Portugal,Porto Santo,33.0657845,-16.3362236,"Porto Santo, Portugal",ok_primary
+Saudi Arabia,Al Wajh,26.6270634,36.66529,"AL WAJH, Saudi Arabia",ok_primary
+Russia,Yekaterinburg,56.8382071,60.6007886,"YEKATERINBURG, Russia",ok_primary
+Russia,Ufa,54.7261409,55.947499,"UFA, Russia",ok_primary
+Russia,Tomsk Bogashevo Airp,64.6863136,97.7453061,Russia,ok_fallback
+Russia,St Petersburg,59.9606739,30.1586551,"ST PETERSBURG, Russia",ok_primary
+Russia,Sochi,43.5854823,39.723109,"SOCHI, Russia",ok_primary
+Russia,Samara/Kurumoch,53.5057511,50.1569939,"SAMARA/KURUMOCH, Russia",ok_primary
+Russia,Ostafyevo,55.4855891,37.5549248,"OSTAFYEVO, Russia",ok_primary
+Russia,Oblast,55.5043158,38.0353929,"OBLAST, Russia",ok_primary
+Russia,Novosibirsk,55.0288307,82.9226887,"NOVOSIBIRSK, Russia",ok_primary
+Russia,Nizhny Novgorod,56.3264816,44.0051395,"NIZHNY NOVGOROD, Russia",ok_primary
+Russia,Moscow,55.625578,37.6063916,"Moscow, Russia",ok_primary
+Russia,Magnitogorsk,53.4256867,59.0507322,"MAGNITOGORSK, Russia",ok_primary
+Russia,Kaliningrad,54.7046485,20.4565666,"KALININGRAD, Russia",ok_primary
+Russia,Chkalovsky Airport,55.8812128,38.0529311,"CHKALOVSKY AIRPORT, Russia",ok_primary
+Slovenia,Ljubljana,46.0500268,14.5069289,"LJUBLJANA, Slovenia",ok_primary
+Slovakia,Piestany,48.5895247,17.8213848,"PIESTANY, Slovakia",ok_primary
+Slovakia,Bratislava,48.1516988,17.1093063,"Bratislava, Slovakia",ok_primary
+Singapore,Singapore,1.2899175,103.8519072,"SINGAPORE, Singapore",ok_primary
+Singapore,Seletar,1.408995,103.8815868,"SELETAR, Singapore",ok_primary
+Seychelles,Seychelles Int Airpo,-4.6574977,55.4540146,Seychelles,ok_fallback
+Serbia,Nis,43.3162736,21.9212335,"Nis, Serbia",ok_primary
+Serbia,Belgrade,44.8153318,20.4456588,"Belgrade, Serbia",ok_primary
+Saudi Arabia,Riyadh,24.638916,46.7160104,"RIYADH, Saudi Arabia",ok_primary
+Saudi Arabia,Madinah,24.471153,39.6111216,"MADINAH, Saudi Arabia",ok_primary
+Saudi Arabia,Jeddah,21.5504432,39.1742363,"Jeddah, Saudi Arabia",ok_primary
+Saudi Arabia,Dammam,26.4367824,50.1039991,"DAMMAM, Saudi Arabia",ok_primary
+Spain,Bilbao,43.2630018,-2.9350039,"BILBAO, Spain",ok_primary
+Spain,Barcelona,41.3825802,2.177073,"BARCELONA, Spain",ok_primary
+Spain,Asturias,43.3133868,-5.94192,"ASTURIAS, Spain",ok_primary
+Spain,Almeria,36.8685739,-2.3120282,"ALMERIA, Spain",ok_primary
+Spain,Alicante,38.3436365,-0.4881708,"ALICANTE, Spain",ok_primary
+Spain,Alguaire,41.7361463,0.585933,"ALGUAIRE, Spain",ok_primary
+Spain,A Coruna,43.3466447,-8.4127029,"A Coruna, Spain",ok_primary
+South Korea,Kimpo,37.6155683,126.7157798,"KIMPO, South Korea",ok_primary
+South Korea,Incheon,37.456,126.7052,"INCHEON, South Korea",ok_primary
+South Africa,Lanseria,-25.9396667,27.9261711,"LANSERIA, South Africa",ok_primary
+South Africa,Kruger Mpumalanga,-26.7467948,28.7647223,"KRUGER MPUMALANGA, South Africa",ok_primary
+South Africa,Johannesburg,-26.205,28.049722,"JOHANNESBURG, South Africa",ok_primary
+Somalia,Mogadishu,2.0349312,45.3419183,"Mogadishu, Somalia",ok_primary
+Slovenia,Maribor,46.5576439,15.6455854,"MARIBOR, Slovenia",ok_primary
+Spain,Menorca,39.9492572,4.0499642,"MENORCA, Spain",ok_primary
+Spain,Malaga,36.7647913,-4.4422005,"MALAGA, Spain",ok_primary
+Spain,Madrid,40.416782,-3.703507,"MADRID, Spain",ok_primary
+Spain,Lanzarote,29.0397081,-13.6362916,"Lanzarote, Spain",ok_primary
+Spain,La Palma,28.6551163,-17.8572686,"LA PALMA, Spain",ok_primary
+Spain,Jerez,36.6816936,-6.1377402,"JEREZ, Spain",ok_primary
+Spain,Ibiza,38.9743901,1.4197463,"Ibiza, Spain",ok_primary
+Spain,Gran Canaria,27.9580004,-15.6062305,"Gran Canaria, Spain",ok_primary
+Spain,Girona,41.9793006,2.8199439,"Girona, Spain",ok_primary
+Spain,Granada,37.1734995,-3.5995337,"GRANADA, Spain",ok_primary
+Spain,Fuerteventura,28.4003769,-14.0048697,"Fuerteventura, Spain",ok_primary
+St. Vincent and the Grenadines,Canouan St. Vincent,12.90447,-61.2765569,St. Vincent and the Grenadines,ok_fallback
+Sri Lanka,Colombo,6.9388614,79.8542005,"COLOMBO, Sri Lanka",ok_primary
+Spain,Valencia,39.4697065,-0.3763353,"Valencia, Spain",ok_primary
+Spain,Tenerife,28.2935785,-16.6214471,"Tenerife, Spain",ok_primary
+Spain,Sevilla,37.3886303,-5.9953403,"Sevilla, Spain",ok_primary
+Spain,Santiago,42.9189543,-8.550786,"SANTIAGO, Spain",ok_primary
+Spain,San Sebastian,43.3224219,-1.9838889,"SAN SEBASTIAN, Spain",ok_primary
+Spain,Reus,41.1555564,1.1076133,"REUS, Spain",ok_primary
+Spain,Palma,39.5695818,2.6500745,"Palma, Spain",ok_primary
+Spain,Murcia,37.9347521,-1.1131029,"MURCIA, Spain",ok_primary
+Sweden,Inrikes Flygplats,59.6749712,14.5208584,Sweden,ok_fallback
+Sweden,Hemavan,65.8152777,15.08528,"Hemavan, Sweden",ok_primary
+Sweden,Halmstad,56.6739826,12.8574827,"Halmstad, Sweden",ok_primary
+Sweden,Hagfors,60.0297519,13.6518574,"Hagfors, Sweden",ok_primary
+Sweden,Göteborg,57.7072326,11.9670171,"Göteborg, Sweden",ok_primary
+Sweden,Gällivare,67.3,20.25,"Gällivare, Sweden",ok_primary
+Sweden,Borlänge,60.4856426,15.4234561,"Borlänge, Sweden",ok_primary
+Sweden,Arvidsjaur,65.666667,19.25,"Arvidsjaur, Sweden",ok_primary
+Sudan/South Sudan,Khartoum,4.9108259,31.5980848,Sudan/South Sudan,ok_fallback
+Sweden,Lycksele,64.6,18.166667,"Lycksele, Sweden",ok_primary
+Sweden,Luleå,65.5831187,22.1459535,"Luleå, Sweden",ok_primary
+Sweden,Linköping,58.4098135,15.6245252,"Linköping, Sweden",ok_primary
+Sweden,Kramfors,62.916667,17.666667,"Kramfors, Sweden",ok_primary
+Sweden,Kiruna,67.8496111,20.30625,"Kiruna, Sweden",ok_primary
+Sweden,Karlstad,59.3809146,13.5027631,"Karlstad, Sweden",ok_primary
+Sweden,Kalmar,56.6628826,16.3662382,"Kalmar, Sweden",ok_primary
+Sweden,Kristianstad,56.0293778,14.1566859,"KRISTIANSTAD, Sweden",ok_primary
+Sweden,Jönköping,57.7825634,14.165719,"JÖNKÖPING, Sweden",ok_primary
+Sweden,Stockholm,59.3251172,18.0710935,"Stockholm, Sweden",ok_primary
+Sweden,Skellefteå,64.7520185,20.959339,"Skellefteå, Sweden",ok_primary
+Sweden,Sveg,62.0360709,14.3598392,"SVEG, Sweden",ok_primary
+Sweden,Sundsvall-Härnösand,62.5278157,17.4406275,"SUNDSVALL-HÄRNÖSAND, Sweden",ok_primary
+Sweden,Ronneby,56.2100417,15.2760355,"Ronneby, Sweden",ok_primary
+Sweden,Pajala,67.25,23.0,"PAJALA, Sweden",ok_primary
+Sweden,Nyköping,58.7545409,17.0120656,"Nyköping, Sweden",ok_primary
+Sweden,Norrköping,58.5909124,16.1903511,"Norrköping, Sweden",ok_primary
+Sweden,Mora,61.0086787,14.5442519,"Mora, Sweden",ok_primary
+Sweden,Malmö,55.6052931,13.0001566,"Malmö, Sweden",ok_primary
+Sweden,Visby,57.6379361,18.297982,"Visby, Sweden",ok_primary
+Sweden,Vilhelmina,64.833333,16.0,"Vilhelmina, Sweden",ok_primary
+Sweden,Umeå,63.8256568,20.2630745,"Umeå, Sweden",ok_primary
+Sweden,Trollhättan,58.2827931,12.2908612,"Trollhättan, Sweden",ok_primary
+Sweden,Torsby,60.5,13.083333,"Torsby, Sweden",ok_primary
+Sweden,Såtenäs,58.4421321,12.7007633,"Såtenäs, Sweden",ok_primary
+Sweden,Sälen,61.1557237,13.2694088,"Sälen, Sweden",ok_primary
+Sweden,Sundsvall Härnösand,62.5278157,17.4406275,"Sundsvall Härnösand, Sweden",ok_primary
+Switzerland,Bern,46.9484742,7.4521749,"Bern, Switzerland",ok_primary
+Switzerland,Buochs,46.9739978,8.4205883,"BUOCHS, Switzerland",ok_primary
+Switzerland,Basel,47.5581077,7.5878261,"BASEL, Switzerland",ok_primary
+Switzerland,Altenrhein,47.4903839,9.5540541,"Altenrhein, Switzerland",ok_primary
+Sweden,Östersund,63.1793655,14.6357061,"Östersund, Sweden",ok_primary
+Sweden,Örnsköldsvik,63.2888613,18.7160209,"Örnsköldsvik, Sweden",ok_primary
+Sweden,Örebro,59.2747287,15.2151181,"Örebro, Sweden",ok_primary
+Sweden,Öresten,57.4621383,12.6313162,"ÖRESTEN, Sweden",ok_primary
+Sweden,Ängelholm,56.2429224,12.8619375,"Ängelholm, Sweden",ok_primary
+Sweden,Växjö,56.8787183,14.8094385,"Växjö, Sweden",ok_primary
+Thailand,Krabi,8.1111653,99.1097298,"KRABI, Thailand",ok_primary
+Thailand,Bangkok,13.7524938,100.4935089,"Bangkok, Thailand",ok_primary
+Tanzania,Zanzibar Town,-6.1595616,39.2009686,"ZANZIBAR TOWN, Tanzania",ok_primary
+Tajikistan,Tashkent,41.2816724,69.2627202,"Tashkent, Tajikistan",ok_primary
+Tajikistan,Dushanbe,38.5767045,68.785433,"DUSHANBE, Tajikistan",ok_primary
+Taiwan,Taipei Intl Apt,23.9739374,120.9820179,Taiwan,ok_fallback
+Taiwan,Taipei,25.0375198,121.5636796,"TAIPEI, Taiwan",ok_primary
+Switzerland,Zurich,47.3744489,8.5410422,"Zürich, Switzerland",ok_primary
+Switzerland,Sion,46.2311749,7.3588795,"Sion, Switzerland",ok_primary
+Switzerland,St. Gallen,47.425618,9.3762397,"ST. GALLEN, Switzerland",ok_primary
+Switzerland,Lugano,46.0038007,8.9512275,"LUGANO, Switzerland",ok_primary
+Switzerland,Geneva,46.2017559,6.1466014,"Geneve, Switzerland",ok_primary
+Turkey,Izmir,38.4192537,27.128469,"Izmir, Turkey",ok_primary
+Turkey,Istanbul,41.006381,28.9758715,"Istanbul, Turkey",ok_primary
+Turkey,Antalya,36.8865728,30.7030242,"Antalya, Turkey",ok_primary
+Turkey,Ankara,39.9207759,32.8540497,"Ankara, Turkey",ok_primary
+Tunisia,Tunis,36.8002068,10.1857757,"Tunis, Tunisia",ok_primary
+Tunisia,Monastir,35.7707582,10.8280511,"MONASTIR, Tunisia",ok_primary
+Tunisia,Jerba/Zarzis,33.8439408,9.400138,Tunisia,ok_fallback
+Tunisia,Enfidha,36.1341194,10.3779916,"Enfidha, Tunisia",ok_primary
+Thailand,Rayong/Ban U-Taphao,14.8971921,100.83273,Thailand,ok_fallback
+Thailand,Phuket,7.9366015,98.3529292,"Phuket, Thailand",ok_primary
+United Arab Emirates,Dubai,25.0742823,55.1885387,"Dubai, United Arab Emirates",ok_primary
+United Arab Emirates,Abu Dhabi,24.4538352,54.3774014,"ABU DHABI, United Arab Emirates",ok_primary
+Ukraine,Odessa,46.4843023,30.7322878,"ODESSA, Ukraine",ok_primary
+Ukraine,Lviv,49.841952,24.0315921,"LVIV, Ukraine",ok_primary
+Ukraine,Kyiv,50.4500336,30.5241361,"Kyiv, Ukraine",ok_primary
+Ukraine,Kiev,50.4500336,30.5241361,"KIEV, Ukraine",ok_primary
+Ukraine,Dnipro,51.5567163,30.6121981,"Dnipro, Ukraine",ok_primary
+Uganda,Entebbe,0.0611715,32.4698564,"Entebbe, Uganda",ok_primary
+Turks and Caicos Islands,Providenciales,21.8020614,-72.3004456,"PROVIDENCIALES, Turks and Caicos Islands",ok_primary
+Turkmenistan,Tashkent,37.9571901,58.360957,"Tashkent, Turkmenistan",ok_primary
+Turkmenistan,Ashgabat,37.9378322,58.2359467,"ASHGABAT, Turkmenistan",ok_primary
+Turkey,Trabzon,41.0054605,39.7301463,"TRABZON, Turkey",ok_primary
+Turkey,Mugla,37.1642053,28.2624288,"MUGLA, Turkey",ok_primary
+Turkey,Konya,37.872734,32.4924376,"Konya, Turkey",ok_primary
+United Kingdom,Doncaster Sheffield,53.4809342,-1.0107445,"DONCASTER SHEFFIELD, United Kingdom",ok_primary
+United Kingdom,Cardiff,51.4816546,-3.1791934,"Cardiff, United Kingdom",ok_primary
+United Kingdom,Bristol,51.4538022,-2.5972985,"Bristol, United Kingdom",ok_primary
+United Kingdom,Birmingham,52.4948994,-1.8518439,"Birmingham, United Kingdom",ok_primary
+United Kingdom,Belfast,54.596391,-5.9301829,"Belfast, United Kingdom",ok_primary
+United Kingdom,Brize Norton,51.7664356,-1.5664074,"BRIZE NORTON, United Kingdom",ok_primary
+United Kingdom,Bournemouth,50.7446718,-1.8579514,"BOURNEMOUTH, United Kingdom",ok_primary
+United Kingdom,Biggin Hill,51.33199,0.029007,"BIGGIN HILL, United Kingdom",ok_primary
+United Kingdom,Aberdeen,57.1482429,-2.0928095,"Aberdeen, United Kingdom",ok_primary
+United Arab Emirates,Sharjah,24.9760668,56.2536044,"SHARJAH, United Arab Emirates",ok_primary
+United Arab Emirates,Ras Al Khaimah,25.7737705,55.938232,"RAS AL KHAIMAH, United Arab Emirates",ok_primary
+United Kingdom,Isle Of Man,55.0631283,-3.5557468,"ISLE OF MAN, United Kingdom",ok_primary
+United Kingdom,Inverness,57.4790124,-4.225739,"INVERNESS, United Kingdom",ok_primary
+United Kingdom,Humberside,53.805128,-0.4907604,"HUMBERSIDE, United Kingdom",ok_primary
+United Kingdom,Hawarden,53.1847774,-3.0266607,"HAWARDEN, United Kingdom",ok_primary
+United Kingdom,Glasgow,55.861155,-4.2501687,"Glasgow, United Kingdom",ok_primary
+United Kingdom,Guernsey,57.1669969,-7.374733,"GUERNSEY, United Kingdom",ok_primary
+United Kingdom,Glasgow Prestwick,55.5023054,-4.5775966,"GLASGOW PRESTWICK, United Kingdom",ok_primary
+United Kingdom,Farnborough,51.2918693,-0.7539836,"Farnborough, United Kingdom",ok_primary
+United Kingdom,Edinburgh,55.9533456,-3.1883749,"Edinburgh, United Kingdom",ok_primary
+United Kingdom,Exeter,50.7256138,-3.5269209,"EXETER, United Kingdom",ok_primary
+United Kingdom,East Midlands,53.1188177,-1.2597069,"EAST MIDLANDS, United Kingdom",ok_primary
+United Kingdom,Durham Tees Valley,54.5094107,-1.4247903,"DURHAM TEES VALLEY, United Kingdom",ok_primary
+United Kingdom,Dundee,56.4605938,-2.97019,"DUNDEE, United Kingdom",ok_primary
+United Kingdom,Oxford,51.7520131,-1.2578499,"Oxford, United Kingdom",ok_primary
+United Kingdom,Nottingham,52.9534193,-1.1496461,"Nottingham, United Kingdom",ok_primary
+United Kingdom,Northolt,51.5484582,-0.3695247,"Northolt, United Kingdom",ok_primary
+United Kingdom,Newcastle,54.9738474,-1.6131572,"Newcastle, United Kingdom",ok_primary
+United Kingdom,Mildenhall,52.3455998,0.5127653,"Mildenhall, United Kingdom",ok_primary
+United Kingdom,Manchester,53.4424618,-2.2324547,"Manchester, United Kingdom",ok_primary
+United Kingdom,London,51.5074456,-0.1277653,"London, United Kingdom",ok_primary
+United Kingdom,Liverpool,53.3933411,-2.9166389,"Liverpool, United Kingdom",ok_primary
+United Kingdom,Leeds Bradford,53.8666504,-1.6567819,"LEEDS BRADFORD, United Kingdom",ok_primary
+United States,Brunswick Golden Isl,39.7837304,-100.445882,United States,ok_fallback
+United States,Bradley,35.1694469,-84.855938,"BRADLEY, United States",ok_primary
+United States,Boston,42.3588336,-71.0578303,"BOSTON, United States",ok_primary
+United States,Bedford Ma,37.3752078,-79.2486815,"BEDFORD MA, United States",ok_primary
+United States,Bangor,44.8016255,-68.7713289,"BANGOR, United States",ok_primary
+United States,Baltimore,39.2908816,-76.610759,"BALTIMORE, United States",ok_primary
+United States,Austin,30.2711286,-97.7436995,"AUSTIN, United States",ok_primary
+United States,Atlanta/Fulton,33.710511,-84.3689965,"ATLANTA/FULTON, United States",ok_primary
+United States,Atlanta,33.7544657,-84.3898151,"ATLANTA, United States",ok_primary
+United States,Andrews,32.2690953,-102.6042447,"ANDREWS, United States",ok_primary
+United States,Allentown,40.6022552,-75.4716115,"ALLENTOWN, United States",ok_primary
+United States,"Albany Country, Ny.",42.6455172,-73.7502062,"ALBANY COUNTRY, NY., United States",ok_primary
+United States,Addison Airport,32.9699986,-96.8366859,"ADDISON AIRPORT, United States",ok_primary
+United Kingdom,Warton,54.1418787,-2.8123655,"WARTON, United Kingdom",ok_primary
+United Kingdom,Southend,51.5388241,0.7128137,"SOUTHEND, United Kingdom",ok_primary
+United Kingdom,Southampton,50.9025349,-1.404189,"SOUTHAMPTON, United Kingdom",ok_primary
+United States,Denver,39.7392364,-104.984862,"DENVER, United States",ok_primary
+United States,Dallas,32.7762719,-96.7968559,"DALLAS, United States",ok_primary
+United States,Chicago,41.8755616,-87.6244212,"Chicago, United States",ok_primary
+United States,Camp Springs,38.8020807,-76.9241908,"Camp Springs, United States",ok_primary
+United States,Columbus/Rickenback.,39.7837304,-100.445882,United States,ok_fallback
+United States,Columbus/Port Colum.,39.7837304,-100.445882,United States,ok_fallback
+United States,Cleveland,41.4996574,-81.6936772,"CLEVELAND, United States",ok_primary
+United States,Chattanooga/Lovell,35.0323836,-85.2016779,"CHATTANOOGA/LOVELL, United States",ok_primary
+United States,Charlotte/Douglas,35.2107415,-80.9457435,"CHARLOTTE/DOUGLAS, United States",ok_primary
+United States,Charles B Wheeler Do,39.7837304,-100.445882,United States,ok_fallback
+United States,Camp Springs/Andrews,38.8155455,-76.8798995,"CAMP SPRINGS/ANDREWS, United States",ok_primary
+United States,Burlington,44.4761601,-73.212906,"BURLINGTON, United States",ok_primary
+United States,Burbank,34.1812089,-118.307201,"BURBANK, United States",ok_primary
+United States,Buffalo Niagara Int,42.9402016,-78.7307523,"BUFFALO NIAGARA INT, United States",ok_primary
+United States,International Falls,48.601033,-93.4105904,"INTERNATIONAL FALLS, United States",ok_primary
+United States,Indianapolis,39.7683331,-86.1583502,"INDIANAPOLIS, United States",ok_primary
+United States,Houston,29.7589382,-95.3676974,"HOUSTON, United States",ok_primary
+United States,Greensboro,36.0726355,-79.7919754,"GREENSBORO, United States",ok_primary
+United States,Greenbay/Austin Stra,39.7837304,-100.445882,United States,ok_fallback
+United States,Fargo/Hector Intl,39.7837304,-100.445882,United States,ok_fallback
+United States,Fort Lauderdale,26.1223084,-80.1433786,"FORT LAUDERDALE, United States",ok_primary
+United States,Farmingdale/Republic,39.7837304,-100.445882,United States,ok_fallback
+United States,Erie International A,39.7837304,-100.445882,United States,ok_fallback
+United States,Eagle County,39.6161124,-106.7172844,"EAGLE COUNTY, United States",ok_primary
+United States,Detroit,42.3315509,-83.0466403,"Detroit, United States",ok_primary
+United States,Dupage Airport,41.9057417,-88.2509911,"DUPAGE AIRPORT, United States",ok_primary
+United States,Duluth,46.7838287,-92.1052679,"DULUTH, United States",ok_primary
+United States,Denver International,39.8606676,-104.6853673,"DENVER INTERNATIONAL, United States",ok_primary
+United States,Minneapolis St Paul,44.9227049,-93.0554922,"Minneapolis St Paul, United States",ok_primary
+United States,Miami,25.7741566,-80.1935973,"Miami, United States",ok_primary
+United States,Moune/Quad-City,39.7837304,-100.445882,United States,ok_fallback
+United States,Morristown,40.7970382,-74.4809868,"MORRISTOWN, United States",ok_primary
+United States,Moffett Federal Airf,39.7837304,-100.445882,United States,ok_fallback
+United States,Minneapolis-St Paul,44.9227049,-93.0554922,"MINNEAPOLIS-ST PAUL, United States",ok_primary
+United States,Milwaukee,43.0386475,-87.9090751,"MILWAUKEE, United States",ok_primary
+United States,Memphis,35.1460249,-90.0517638,"MEMPHIS, United States",ok_primary
+United States,Los Angeles,34.0536909,-118.242766,"Los Angeles, United States",ok_primary
+United States,Long Island,40.8514971,-73.0994297,"Long Island, United States",ok_primary
+United States,Las Vegas,36.1674263,-115.1484131,"Las Vegas, United States",ok_primary
+United States,Long Beach Airport,33.8155659,-118.1534292,"LONG BEACH AIRPORT, United States",ok_primary
+United States,Lexington/Blue Gras,39.7837304,-100.445882,United States,ok_fallback
+United States,Pittsburgh,40.4406968,-80.0025666,"Pittsburgh, United States",ok_primary
+United States,Palm Beach,26.6279798,-80.4494174,"Palm Beach, United States",ok_primary
+United States,Providence/Theodore,30.8174981,-83.9791976,"PROVIDENCE/THEODORE, United States",ok_primary
+United States,Portsmouth,36.8320081,-76.297699,"PORTSMOUTH, United States",ok_primary
+United States,Portland,45.5202471,-122.674194,"PORTLAND, United States",ok_primary
+United States,Pittsburgh Intl,40.4917828,-80.2370245,"PITTSBURGH INTL, United States",ok_primary
+United States,Philadelphia,39.9527237,-75.1635262,"PHILADELPHIA, United States",ok_primary
+United States,Orlando,28.5421218,-81.379045,"ORLANDO, United States",ok_primary
+United States,Oakland,37.8044557,-122.271356,"OAKLAND, United States",ok_primary
+United States,New York,40.7127281,-74.0060152,"New York, United States",ok_primary
+United States,Nashville,36.1622767,-86.7742984,"Nashville, United States",ok_primary
+United States,Newburgh,41.5000767,-74.0098299,"NEWBURGH, United States",ok_primary
+United States,New Orleans,29.9561422,-90.0733934,"NEW ORLEANS, United States",ok_primary
+United States,Southwest Florida,25.7325923,-80.30681,"SOUTHWEST FLORIDA, United States",ok_primary
+United States,South Bend,41.6833813,-86.2500066,"SOUTH BEND, United States",ok_primary
+United States,Shively Filed,39.7837304,-100.445882,United States,ok_fallback
+United States,Scottsdale,33.4942189,-111.926018,"SCOTTSDALE, United States",ok_primary
+United States,Sarasota,27.3365805,-82.5308545,"SARASOTA, United States",ok_primary
+United States,San Diego Intl,32.7333608,-117.1922464,"SAN DIEGO INTL, United States",ok_primary
+United States,San Antonio,29.4246002,-98.4951405,"SAN ANTONIO, United States",ok_primary
+United States,Rocky Mtn Metropolit,39.7837304,-100.445882,United States,ok_fallback
+United States,Rochester Ny,43.1576414,-77.6133531,"ROCHESTER NY, United States",ok_primary
+United States,Rochester Mn,44.0223987,-92.4623521,"ROCHESTER MN, United States",ok_primary
+United States,Richmond,37.5385087,-77.43428,"RICHMOND, United States",ok_primary
+United States,Reno Tahoe Int Airpo,39.7837304,-100.445882,United States,ok_fallback
+United States,Raleigh-Durham,35.8803614,-78.7872382,"RALEIGH-DURHAM, United States",ok_primary
+Antigua and Barbuda,"V.C.Bird, Antigua",17.1355258,-61.7938871,"V.C.BIRD, ANTIGUA, Antigua and Barbuda",ok_primary
+Uzbekistan,Tashkent/Yuzhny,41.2599624,69.285117,"TASHKENT/YUZHNY, Uzbekistan",ok_primary
+United States,Washington Dc,38.8950982,-77.0363849,"Washington DC, United States",ok_primary
+United States,Wrightstown,40.0361784,-74.6179921,"WRIGHTSTOWN, United States",ok_primary
+United States,Will Rogers World Ai,39.7837304,-100.445882,United States,ok_fallback
+United States,Wichita Dwight D Eis,39.7837304,-100.445882,United States,ok_fallback
+United States,White Plains/Westch.,39.7837304,-100.445882,United States,ok_fallback
+United States,Westhampton,40.825042,-72.6709984,"WESTHAMPTON, United States",ok_primary
+United States,West Columbia,29.1438582,-95.6452249,"WEST COLUMBIA, United States",ok_primary
+United States,Waukegan,42.3602273,-87.8318164,"WAUKEGAN, United States",ok_primary
+United States,Van Nuys,34.1866193,-118.4486675,"Van Nuys, United States",ok_primary
+United States,Tulsa,36.1563122,-95.9927516,"Tulsa, United States",ok_primary
+Bahrain,Bahrain,26.0311459,50.5143663,"BAHRAIN, Bahrain",ok_primary
+Bahamas,Nassau,25.0782266,-77.3383438,"NASSAU, Bahamas",ok_primary
+Bahamas,Marsh Harbour Airpor,24.7736546,-78.0000547,Bahamas,ok_fallback
+Azerbaijan,Gabala,40.9753138,47.8402144,"Gabala, Azerbaijan",ok_primary
+Azerbaijan,Baku/Bina,40.3936294,47.7872508,Azerbaijan,ok_fallback
+Austria,Vienna,48.2083537,16.3725042,"WIEN, Austria",ok_primary
+Austria,Salzburg,47.7981346,13.0464806,"Salzburg, Austria",ok_primary
+Austria,Linz,48.3059078,14.286198,"LINZ, Austria",ok_primary
+Austria,Klagenfurt,46.623943,14.3075976,"KLAGENFURT, Austria",ok_primary
+Austria,Innsbruck,47.2654296,11.3927685,"Innsbruck, Austria",ok_primary
+Austria,Graz,47.0708678,15.4382786,"GRAZ, Austria",ok_primary
+Aruba,Oranjestad/Beatrix,12.5013629,-69.9618475,Aruba,ok_fallback
+Armenia,Yerevan,40.1777112,44.5126233,"YEREVAN, Armenia",ok_primary
+Unknown,(Tom),,,skipped,ungeocodable
+Unknown,Utrikes Flygplats,,,skipped,ungeocodable
+United Kingdom,(Tom),,,skipped,ungeocodable
+South Africa,(Tom),,,skipped,ungeocodable
+Spain,(Tom),,,skipped,ungeocodable
+(tom),(Tom),,,skipped,ungeocodable

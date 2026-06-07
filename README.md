@@ -68,7 +68,7 @@ The `visualization_data.csv` is used for creating the Tableau visualization.
 
 ## Tableau Workbook
 
-The Tableau workbook (`.twb`) used to visualize this data is not included in this repository. You can find, explore and download the published visualization on my Tableau Public profile: `https://public.tableau.com/app/profile/emanuel.raptis/vizzes`
+The Tableau workbook (`.twb`) used to visualize this data is not included in this repository. You can find, explore and download the published visualization on my [Tableau Public profile](https://public.tableau.com/app/profile/emanuel.raptis/vizzes)
 
 This is a screenshot of the map visualization filtered for destinations in Europe:
 

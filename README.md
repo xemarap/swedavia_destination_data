@@ -82,6 +82,7 @@ Drop `destinationsstatistik_YYYY.xlsx` into `Data/` and re-run all three scripts
 
 - Thanks to [Swedavia](https://www.swedavia.se/om-swedavia/statistik/) for publishing their passenger statistics as open data.
 - Geocoding is performed using [geopy](https://github.com/geopy/geopy) and the [Nominatim](https://nominatim.org/) service. If you reuse or extend the geocoding step, please follow [Nominatim's usage policy](https://operations.osmfoundation.org/policies/nominatim/).
+- Continent lookups are performed using [pycountry-convert](https://pypi.org/project/pycountry-convert/), which maps country names to their continent.
 
 ## Disclaimer
 
